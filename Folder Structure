@@ -1,0 +1,29 @@
+fortinet-homelab-project
+│
+├── README.md
+│
+├── 01-Network-Architecture
+│   └── network-diagram.png
+│
+├── 02-Firewall-Policies
+│   └── firewall-policies.md
+│
+├── 03-Web-Filtering
+│   └── web-filtering.md
+│
+├── 04-Application-Control
+│   └── application-control.md
+│
+├── 05-IPS
+│   └── ips-detection.md
+│
+├── 06-Antivirus
+│   └── antivirus-testing.md
+│
+├── 07-SSLVPN
+│   └── ssl-vpn.md
+│
+├── 08-IPSec-VPN
+│   └── ipsec-vpn.md
+│
+└── screenshots
